@@ -1,56 +1,49 @@
-# Cultural Data Science - Visual #
+# Language Analytics - Spring 2021
 
-```yaml
-title: Cultural Data Science - Visual, Aarhus University
-authors: R.D. Kristensen-McLachlan & K.L. Nielbo
-contact: rdkm@cc.au.dk & kln@cas.au.dk
-```
+This repository contains all of the code and data related to the Spring 2021 module _Visual Analytics_ as part of the bachelor's tilvalg in [Cultural Data Science](https://bachelor.au.dk/en/supplementary-subject/culturaldatascience/) at Aarhus University.
 
-> **_NOTE:_** The repository is still in development for Spring 2021
+This repository is in active development, with new material being pushed on a weekly basis. 
 
-## Prerequisites
+## Technicalities
 
-For running in virtual environment (recommended) and assuming python3.6+ is installed.
+For the sake of convenience, I recommend using our own [JupyterHub server](https://worker02.chcaa.au.dk/jupyter/hub/login) for development purposes. The first time you use the server, you'll need to create your own version of the repo and install relevant dependencies in a virtual environment:
 
 ```bash
-$ sudo pip3 install virtualenv
-$ virtualenv -p /usr/bin/python3 venv
-$ source venv/bin/activate
+git clone https://github.com/CDS-AU-DK/cds-language.git
+bash ./create_vision_venv.sh
 ```
 
-## Installation
-
-Clone repository and install requirements
+From then on, every time you use the server, make sure you update the repo and install any new dependencies:
 
 ```bash
-$ git clone git@github.com:knielbo/cds-visual.git
-$ pip3 install -r requirements.txt
+cd lang101
+git pull origin main
+bash ./create_lang_venv.sh
 ```
 
-### GPU acceleration
+## Repo structure
 
-[TBA] for your desired CUDA version.
+This repository has the following directory structure:
 
-## Contributing
+| Column | Description|
+|--------|:-----------|
+```data```| A folder to be used for sample datasets that we use in class.
+```notebooks``` | This is where you should save all exploratory and experimental notebooks.
+```src``` | Python scripts to be used in class.
+```utils``` | Utility functions that are written by me, and which we'll use in class.
 
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :smiling_imp:
 
-## Versioning
+## Class times
 
-| Edition | Date | Comment |
-| --- | --- | --- |
-| v1 | Jan 25 2021 | Launch |
+This class takes place on Thursday afternoons from 14-18. Teaching will take place on Zoom, the link for which will be posted on Slack.
 
-## Authors
-- Ross D. Kristensen-McLachlan
-- Kristoffer L. Nielbo
+## Course overview and readings
 
-## License
+A detailed breakdown of the course structure and the associated readings can be found in the [syllabus](syllabus.md). Also, be sure to familiarise yourself with the [_studieordning_](https://eddiprod.au.dk/EDDI/webservices/DokOrdningService.cfc?method=visGodkendtOrdning&dokOrdningId=15952&sprog=en) for the course, especially in relation to examination and academic regulations.
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+## Contact details
 
-## Acknowledgment
+The instructor is me! That is to say, [Ross](https://pure.au.dk/portal/en/persons/ross-deans-kristensenmclachlan(29ad140e-0785-4e07-bdc1-8af12f15856c).html).
+
+All communication to you will be sent _both_ on Slack _and_ via Blackboard. If you need to get in touch with me, Slack should be your first port-of-call! 
+
