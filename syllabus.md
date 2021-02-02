@@ -127,7 +127,7 @@ We will use the "a-spatial-analytics" channel for class-related communication. P
 3. If it has already been asked but you're not satisfied with the answer, refine your question to get the answer you need, and add to the thread. 
     - Document the questions you ask and the responses.
     - Give your question context from course concepts not course assignments
-        - Good context: "I have a question on filtering
+        - Good context: "I have a question on image transformation"
         - Bad context: "I have a question on HW 1 question 4"
     - Be precise in your description:
         - Good description: "I am getting the following error and I'm not sure how to resolve it - ```ImportError: No module named cv2```"
