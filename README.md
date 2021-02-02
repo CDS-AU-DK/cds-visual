@@ -10,7 +10,7 @@ For the sake of convenience, I recommend using our own [JupyterHub server](https
 
 ```bash
 git clone https://github.com/CDS-AU-DK/cds-language.git
-bash ./create_vision_venv.sh
+bash create_vision_venv.sh
 ```
 
 From then on, every time you use the server, make sure you update the repo and install any new dependencies:
@@ -18,7 +18,7 @@ From then on, every time you use the server, make sure you update the repo and i
 ```bash
 cd lang101
 git pull origin main
-bash ./create_lang_venv.sh
+bash create_vision_venv.sh
 ```
 
 ## Repo structure
