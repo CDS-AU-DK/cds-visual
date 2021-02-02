@@ -8,7 +8,7 @@ pip install --upgrade pip
 
 pip install ipython
 pip install jupyter
-
+pip install opencv-python
 python -m ipykernel install --user --name=$VENVNAME
 
 test -f requirements.txt && pip install requirements.txt
