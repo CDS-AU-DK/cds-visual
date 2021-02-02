@@ -1,4 +1,4 @@
-# Language Analytics - Spring 2021
+# Visual Analytics - Spring 2021
 
 This repository contains all of the code and data related to the Spring 2021 module _Visual Analytics_ as part of the bachelor's tilvalg in [Cultural Data Science](https://bachelor.au.dk/en/supplementary-subject/culturaldatascience/) at Aarhus University.
 
