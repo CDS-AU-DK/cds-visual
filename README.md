@@ -10,6 +10,7 @@ For the sake of convenience, I recommend using our own [JupyterHub server](https
 
 ```bash
 git clone https://github.com/CDS-AU-DK/cds-language.git
+cd cds-visual
 bash create_vision_venv.sh
 ```
 
