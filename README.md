@@ -9,7 +9,7 @@ This repository is in active development, with new material being pushed on a we
 For the sake of convenience, I recommend using our own [JupyterHub server](https://worker02.chcaa.au.dk/jupyter/hub/login) for development purposes. The first time you use the server, you'll need to create your own version of the repo and install relevant dependencies in a virtual environment:
 
 ```bash
-git clone https://github.com/CDS-AU-DK/cds-language.git
+git clone https://github.com/CDS-AU-DK/cds-visual.git
 cd cds-visual
 bash create_vision_venv.sh
 ```
@@ -36,7 +36,7 @@ This repository has the following directory structure:
 
 ## Class times
 
-This class takes place on Thursday afternoons from 14-18. Teaching will take place on Zoom, the link for which will be posted on Slack.
+This class takes place on Thursday afternoons from 14-18. Teaching will take place on Zoom, the link for which will be posted on Slack and Blackboard.
 
 ## Course overview and readings
 
