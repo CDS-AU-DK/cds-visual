@@ -112,6 +112,25 @@ def jimshow(image, title=False):
     
     plt.show()
 
+def jimshow_channel(image, title=False):
+    """
+    Modified jimshow() to plot individual channels
+    """
+    # Acquire default dots per inch value of matplotlib
+    dpi = mpl.rcParams['figure.dpi']
+
+    height, width = image.shape
+    figsize = width / float(dpi), height / float(dpi)
+    
+    plt.figure(figsize=figsize)
+    
+    plt.imshow(image, cmap='gray')
+      
+    if title:
+        plt.title(title)
+    plt.axis('off')
+    
+    plt.show()
 
 if __name__=="__main__":
     pass
