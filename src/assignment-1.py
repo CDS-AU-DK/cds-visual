@@ -1,30 +1,15 @@
 #!/usr/bin/env python
 """
-Load image, grab and manipulate image region
+Load image, find height and width, save output
 Parameters:
-    image: str <path-to-image>
+    path: str <path-to-image-dir>
+    outfile: str <filename-to-save-results>
 Usage:
-    getting_and_setting.py --image <path-to-image>
+    assignment1.py --image <path-to-image>
 Example:
-    $ python getting_and_setting.py --image ../img/trex.png
-## Explain
-- RGB and BGR triplets: BGR is the horse's ass in OpenCV." OpenCV reads in images in 
-BGR format (instead of RGB) because when OpenCV was first being developed, 
-BGR color format was popular among camera manufacturers and image software. 
-- slicing arrays
+    $ python assignment1.py --path data/img --outfile results.csv
 ## Task
-Manipulate color of pixel region
-Move pixel region
-Loop over BGR triplet of pixel region
-"""#!/usr/bin/env python
-"""
-Count total and unique words in directory
-Parameters:
-    path: str <path-to-folder>
-Usage:
-    word_counts_rdkm.py --path <path-to-folder>
-Example:
-    $ python word_counts_rdkm.py --path data/100_english_novels/corpus
+- Save csv showing height and width of every image in a directory
 """
 
 import os
