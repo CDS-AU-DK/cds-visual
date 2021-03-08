@@ -40,8 +40,8 @@ Each course element (1-13) is a four hour session, consisting of a 1hr lecture, 
 5. Edge detection (4/3)
 6. Image classification with `scikit-learn` (11/3)
 7. Image classification with shallow neural networks (18/3)
-8. From shallow to deep learning (25/3)
-   EASTER
+8. From shallow to deep learning (25/3) 
+- EASTER
 9. Image classification with convolutional neural networks (8/4)
 10. Out-of-the-box CNNs for classification (15/4)
 11. A CNN from scratch (or from `TensorFlow`) (22/4)
