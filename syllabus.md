@@ -33,24 +33,20 @@ Assignment will be graded on a 0 to 3 point scale based on a simple effort-focus
 ## Schedule ##
 Each course element (1-13) is a four hour session, consisting of a 1hr lecture, 1hr coding task explanation, and 2hrs code-along session.
 
-1. Python exemplified with image processing
-    * basic manipulation of images
-    * image translation
-2. Image processing with Python
-    * color-channels and -space
-    * histograms
-3. Image processing with `OpenCV`
-  * convolution kernels
-4. Use cases: Face detection & handwriting recognition
-5. Introduction to classical machine learning
-6. Image classification with `scikit-learn`
-7. Image classification with shallow neural networks
-8. From shallow to deep learning
-9. Image classification with convolutional neural networks
-10. Out-of-the-box CNNs for classification
-11. A CNN from scratch (or from `TensorFlow`)
-12. Use cases: Style transfer & image embedding
-13. Beyond CNNs & project proposals
+1. Python exemplified with image processing (4/2)
+2. Image processing with Python (11/2)
+3. Image processing with `OpenCV` (18/2)
+4. Yet more image processing (25/2)
+5. Edge detection (4/3)
+6. Image classification with `scikit-learn` (11/3)
+7. Image classification with shallow neural networks (18/3)
+8. From shallow to deep learning (25/3)
+   EASTER
+9. Image classification with convolutional neural networks (8/4)
+10. Out-of-the-box CNNs for classification (15/4)
+11. A CNN from scratch (or from `TensorFlow`) (22/4)
+12. Use cases: Style transfer & image embedding (29/4)
+13. Beyond CNNs (6/5)
 
 ## Reading ##
 * You should acquire
