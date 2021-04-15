@@ -21,8 +21,6 @@ In the evaluation of the student’s performance, emphasis is placed on the exte
     * independently reflect critically on the integration of hermeneutical-conceptual and quantitative-methodological choices for an analysis
     * apply acquired methods and procedures to topics from the student’s core field.
 
-## Course Assessment ##
-This course is graded. In order to proceed to the final exam (take-home project) at the first instance, you need to participate by submitting and peer-reviewing at least 5 out of 8 assignments to Blackboard.
 
 ### Participation ###
 Answers to weekly questions or tasks will be required before the next session. You are welcome to either upload your code or link to a Github repo. You will be expected to peer review 2 submissions from your classmates.
