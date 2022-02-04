@@ -42,12 +42,12 @@ Each course element (1-13) is a four hour session, consisting of a two-hour lect
 6. Image classification with `scikit-learn`
 7. Image classification with shallow neural networks
 8. From shallow to deep learning
-- EASTER
 9. Image classification with convolutional neural networks
-10. Out-of-the-box CNNs for classification
-11. A CNN from scratch (or from `TensorFlow`)
-12. Use cases: Style transfer & image embedding
-13. Beyond CNNs
+- EASTER
+1.  Out-of-the-box CNNs for classification
+2.  A CNN from scratch (or from `TensorFlow`)
+3.  Use cases: Style transfer & image embedding
+4.  Beyond CNNs
 
 ## Reading ##
 * You should acquire
