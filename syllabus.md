@@ -21,30 +21,33 @@ In the evaluation of the student’s performance, emphasis is placed on the exte
     * independently reflect critically on the integration of hermeneutical-conceptual and quantitative-methodological choices for an analysis
     * apply acquired methods and procedures to topics from the student’s core field.
 
+## Course Assessment ##
+The exam consists of a portfolio containing a number of assignments. The portfolio will consist of 3-7 assignments.
+The number of assignments as well as their form and length will be announced at the start of the semester. The portfolio may include products. Depending on their length, and subject to the teacher’s approval, these products can replace some of the standard pages in the portfolio.
 
 ### Participation ###
-Answers to weekly questions or tasks will be required before the next session. You are welcome to either upload your code or link to a Github repo. You will be expected to peer review 2 submissions from your classmates.
+Students will be expected to complete the in-class assignments in order to progress to the examination. These assignments are designed first and foremost to develop skills rather than “prove” you have learned concepts. 
 
-Assignment will be graded on a 0 to 3 point scale based on a simple effort-focused rubric found on the course website. These are designed first and foremost to develop skills rather than “prove” you have learned concepts. I encourage you to communicate and work together, so long as you write and explain your code yourself and do not copy work wholesale. You can learn a lot from replicating others’ code but you will learn nothing if you copy it without knowing how it works.
+I encourage you to communicate and work together, so long as you write and explain your code yourself and do not copy work wholesale. You can learn a lot from replicating others’ code but you will learn nothing if you copy it without knowing how it works.
 
 
 ## Schedule ##
-Each course element (1-13) is a four hour session, consisting of a 1hr lecture, 1hr coding task explanation, and 2hrs code-along session.
+Each course element (1-13) is a four hour session, consisting of a two-hour lecture 1hr and a two-hour code-along session.
 
-1. Python exemplified with image processing (4/2)
-2. Image processing with Python (11/2)
-3. Image processing with `OpenCV` (18/2)
-4. Yet more image processing (25/2)
-5. Edge detection (4/3)
-6. Image classification with `scikit-learn` (11/3)
-7. Image classification with shallow neural networks (18/3)
-8. From shallow to deep learning (25/3) 
+1. Python exemplified with image processing 
+2. Image processing with Python
+3. Image processing with `OpenCV`
+4. Yet more image processing
+5. Edge detection
+6. Image classification with `scikit-learn`
+7. Image classification with shallow neural networks
+8. From shallow to deep learning
 - EASTER
-9. Image classification with convolutional neural networks (8/4)
-10. Out-of-the-box CNNs for classification (15/4)
-11. A CNN from scratch (or from `TensorFlow`) (22/4)
-12. Use cases: Style transfer & image embedding (29/4)
-13. Beyond CNNs (6/5)
+9. Image classification with convolutional neural networks
+10. Out-of-the-box CNNs for classification
+11. A CNN from scratch (or from `TensorFlow`)
+12. Use cases: Style transfer & image embedding
+13. Beyond CNNs
 
 ## Reading ##
 * You should acquire

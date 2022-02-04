@@ -6,21 +6,9 @@ This repository is in active development, with new material being pushed on a we
 
 ## Technicalities
 
-For the sake of convenience, I recommend using our own [JupyterHub server](https://worker02.chcaa.au.dk/jupyter/hub/login) for development purposes. The first time you use the server, you'll need to create your own version of the repo and install relevant dependencies in a virtual environment:
+The coding part of this course will be run entirely on [UCloud](https://cloud.sdu.dk/). This is to ensure that everyone has access to the same computing resources and to avoid potential conflicts with different operating systems, different versions of Python, and so on.
 
-```bash
-git clone https://github.com/CDS-AU-DK/cds-visual.git
-cd cds-visual
-bash create_vision_venv.sh
-```
-
-From then on, every time you use the server, make sure you update the repo and install any new dependencies:
-
-```bash
-cd lang101
-git pull origin main
-bash create_vision_venv.sh
-```
+Students are welcome to develop code locally on their machine instead. However, please not that *no support* will be given for potential problems or errors you encounter!
 
 ## Repo structure
 
