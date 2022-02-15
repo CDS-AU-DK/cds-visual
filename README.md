@@ -24,7 +24,7 @@ This repository has the following directory structure:
 
 ## Class times
 
-This class takes place on Wednesdays from 11-15. Teaching will take place on Zoom, the link for which will be posted on Slack and Blackboard.
+This class takes place on Wednesdays from 11-15. Teaching will take place in person, and you can find the room number via the AU Timetable website.
 
 ## Course overview and readings
 
