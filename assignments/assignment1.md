@@ -15,7 +15,7 @@ For this assignment, you should create a private Github repository and add me as
 ## Tips and pointers
 - You are welcome to work on this and submit as a group, even though it says Individual Assignment
 - Try to provide a README file which outlines the contents of the repository
-- For your dataset, you should use the novels in the shared data folder for CDS-VIS, under _flowers_
+- For your dataset, you should use the images in the shared data folder for CDS-VIS, under _flowers_
 - Calculate distance using the __cv2.HISTCMP_CHISQR__ function in Open-CV
 - Remember to _normalize_ your images using something like __MinMax__
 
