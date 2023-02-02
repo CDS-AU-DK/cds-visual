@@ -94,29 +94,10 @@ We'll be using VanderPlas (2016) in session 4, but it'ss a useful reference text
 
 
 ## Slack Channel ##
-We will use the "c-visual-analytics" channel for class-related communication. Please ask (and answer) questions in this Slack channel. If you are not in the CD Slack, sign up here [bit.ly/SlackForCDS](bit.ly/SlackForCDS). There is no such thing as a stupid or trivial question. If a colleague asks a question you know an answer to, try and answer. Slack is not only for instructor-student interaction, it is for all students to share knowledge and resources, and to get answers as fast as possible. Slack is best-suited for short technical questions and individual threads or channels for extended conversations on a given topic. 
+There is no such thing as a stupid or trivial question. If a fellow student asks a question you know an answer to, try and answer!
 
-### Rules of Slack: ###
-1. use your github username or post.au.dk address to register and use the channel.
-2. post on the general, spatial-analytics, or other relevant channel instead of direct messaging instructors.
-3. use proper formatting: When asking questions involving code, please make sure to use inline code formatting for short bits of code or code snippets for longer, multi-line chunks
-    - Formatting messages: https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages
-    - Code snippets: https://get.slack.help/hc/en-us/articles/204145658-Creating-a-Snippet
-4. For specific coding advise, please use minimal reproducible examples, e.g. https://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example
+ Slack is not only for instructor-student interaction, it is for all students to share knowledge and resources, and to get answers as fast as possible. Slack is best-suited for short technical questions and individual threads or channels for extended conversations on a given topic. 
 
-
-## Asking questions (on Slack, in class, and elsewhere) ##
-1. Google It First! Google the error Python gives you. English language errors will have more solutions online.
-2. Search existing online resources (Google, Stackexchange, etc.) and class discussion on Slack for answers. If the question has already been answered, you're done!
-3. If it has already been asked but you're not satisfied with the answer, refine your question to get the answer you need, and add to the thread.
-    - Document the questions you ask and the responses.
-    - Give your question context from course concepts not course assignments
-        - Good context: "I have a question on image transformation"
-        - Bad context: "I have a question on HW 1 question 4"
-    - Be precise in your description:
-        - Good description: "I am getting the following error and I'm not sure how to resolve it - ```ImportError: No module named cv2```"
-        - Bad description: "Python is giving me errors."
-    - You can edit a question in Slack after posting it.
 
 ## Disability Resources ##
 Your experience in this class is important to me. If you have already established accommodations with Special Educational Support (SES), please communicate your approved accommodations to me at your earliest convenience so we can discuss your needs in this course. If you have not yet established services through SES, but have a temporary health condition or permanent disability that requires accommodations (conditions include but not limited to; mental health, attention-related, learning, vision, hearing, physical or health impacts), you are welcome to contact 8716 2720 (Monday & Thursday 9-12, Tuesday 13-15) or email sps@au.dk .  SES offers resources and coordinates reasonable accommodations for students with disabilities and/or temporary health conditions. Reasonable accommodations are established through an interactive process between you, your instructor(s) and SES. It is the policy and practice of the Aarhus University to create inclusive and accessible learning environment and ensure that all students have the opportunity to educate themselves on equal terms even if they have a disability
