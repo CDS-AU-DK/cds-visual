@@ -76,6 +76,8 @@ Each course element (1-13) is a four hour session, consisting of a two-hour lect
 *  Madhu, P., Kosti, R., Mührenberg, L., Bell, P., Maier, A. & Christlein, V. (2020) “Recognizing Characters in Art History Using Deep Learning,” [arXiv:2003.14171](https://arxiv.org/abs/2003.14171)
 * Mitchell, T.M. (1997) "Does Machine Learning Really Work?,” [Available online](https://www.aaai.org/ojs/index.php/aimagazine/article/view/1303)
 * Nielsen, M.A. (2015). Neural Networks and Deep Learning*, Determination Press. [Online](http://neuralnetworksanddeeplearning.com/chap1.html)
+* Tarp, L. & Kristensen-McLachlan, R.D. (2021). "The reduced artefact: A case study in data visualisation and digital art history", *Perspectives*, Nov. 21. [Online](https://perspective.smk.dk/en/reduced-artefact-case-study-data-visualisation-and-digital-art-history)
+  * [Also available in Danish](https://perspective.smk.dk/det-reducerede-vaerk-datavisualisering-af-tusindvis-af-vaerkfotografier)
 * VanderPlas, J. (2016). _Python Data Science Handbook_. [Online](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * Wevers, M., & Smits, T. (2020). "Detecting Faces, Visual Medium Types, and Gender in Historical Advertisements, 1950–1995", In: Bartoli, A., Fusiello, A. (eds), *Computer Vision – ECCV 2020 Workshops. ECCV 2020. Lecture Notes in Computer Science()*, vol 12536. Springer, Cham. DOI:[https://doi.org/10.1007/978-3-030-66096-3_7](https://doi.org/10.1007/978-3-030-66096-3_7)
 
