@@ -49,70 +49,49 @@ Each course element (1-13) is a four hour session, consisting of a two-hour lect
 3.  Use cases: Style transfer & image embedding
 4.  Beyond CNNs
 
+| Week  | Session | Lecture | Classroom  |Reading |
+| :---: | :-----: | ----------| -------| ---|
+|  5    |    1    | Introducing Visual Analytics         | Thinking about images with Python        | NO ASSIGNED READINGS                              |
+|  6    |    2    | Basic image processing               | Exploring colour channels                | *Arnold & Tilton (2019)*                          |
+|  7    |    3    | More image processing                | Comparing colour histograms              | *Manovich(2012)*                                  |
+|  8    |    4    | Convolutional kernels                | Thresholds and blurring                  | *Wevers & Smits (2020)*                           |
+|  9    |    5    | Image classification 1               | Logistic Regression w/ Scikit-Learn      | *Mitchell (1997), VanderPlas (2016), chapter 5*   |
+|  10   |    6    | Image classification 2               | Simple neural networks                   | *Nielsen (2015), Chapter 2&3*                     |
+|  11   |    7	  | From shallow to deep learning        | Introducing TensorFlow                   | *Nielsen (2015), Chapter 5                        |
+|  12   |    8	  | Convolutional Neural Networks        | Building ConvNets w/ Tensorflow          | *Krizhevsky et al. (2017)                         |
+|  13   |    9    | Pretrained CNNs and transfer learning| Search algorithm with image embeddings   | *Madhu et al (2020), Tarp & Kristensen-McLachlan (2022)* |
+|  14   |         | *NO TEACHING*                        | *NO TEACHING*                            | *NO ASSIGNED READINGS*                          |
+|  15   |   10    | More on image embeddings             | Style transfer                           | *Gatys et al. (2015)*                             |
+|  16   |   11    | Project presentations                | Project presentations                    | *NO ASSIGNED READINGS*                            |
+|  17   |   12    | Text-to-Image models                 | Prompt engineering                       | *CRFM (2019), sections                            |
+|  18   |   13    | Project development                  | Project development                      | *NO ASSIGNED READINGS*                            |
+
 ## Reading ##
-* You should acquire
-  * M. Kirk, “Thoughtful Machine Learning with Python”
 
-* Texts without download links [Download](https://drive.google.com/drive/folders/1MTRDFUPIA16zgNHoW1B1PaWxBzFHY2al?usp=sharing)
+* Arnold, A. & Tilton, L. (2019). "Distant viewing: analyzing large visual corpora", *Digital Scholarship in the Humanities*, 34(1), 1-14. DOI:[https://doi.org/10.1093/llc/fqz013](https://doi.org/10.1093/llc/fqz013)
+* Center for Research on Foundation Models (CRFM) (2019). "On the Opportunities and Risks of Foundation Models", [arXiv:2108.07258](https://arxiv.org/abs/2108.07258) [cs.LG]
+* Krizhevsky, A., Sutskever, I., & Hinton, G.E. (2017). "ImageNet classification with deep convolutional neural networks",* Commun. ACM*, 60(6), 84–90. https://doi.org/10.1145/3065386
+* Gatys, L.A., Ecker, A.S., & Bethge, M. (2015), “A Neural Algorithm of Artistic Style,” [arXiv:1508.06576](http://arxiv.org/abs/1508.06576).
+* Manovich, L. (2012). How to Compare One Million Images?. In: Berry, D.M. (eds) Understanding Digital Humanities. Palgrave Macmillan, London. DOI:[https://doi.org/10.1057/9780230371934_14](https://doi.org/10.1057/9780230371934_14)
+*  Madhu, P., Kosti, R., Mührenberg, L., Bell, P., Maier, A. & Christlein, V. (2020) “Recognizing Characters in Art History Using Deep Learning,” [arXiv:2003.14171](https://arxiv.org/abs/2003.14171)
+* Mitchell, T.M. (1997) "Does Machine Learning Really Work?,” [Available online](https://www.aaai.org/ojs/index.php/aimagazine/article/view/1303)
+* Nielsen, M.A. (2015). Neural Networks and Deep Learning*, Determination Press. [Online](http://neuralnetworksanddeeplearning.com/chap1.html)
+* VanderPlas, J. (2016). _Python Data Science Handbook_. [Online](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* Wevers, M., & Smits, T. (2020). "Detecting Faces, Visual Medium Types, and Gender in Historical Advertisements, 1950–1995", In: Bartoli, A., Fusiello, A. (eds), *Computer Vision – ECCV 2020 Workshops. ECCV 2020. Lecture Notes in Computer Science()*, vol 12536. Springer, Cham. DOI:[https://doi.org/10.1007/978-3-030-66096-3_7](https://doi.org/10.1007/978-3-030-66096-3_7)
 
-* Some readings are marked with `math` indicating that students with knowledge of basic calculus, probability theory, and linear algebra can benefit from this paper instead of the `introduction` paper. In those cases, both papers are therefore _not required_ reading.
 
-#### Lesson 1 ####
+## Additional Resources
+The following resources are *not* compulsory assigned readings. Instead, these are a mixture of textbooks and other resources which can be used as reference texts. Specifically, these will be useful for people who want to improve their understanding of linear algebra and neural networks. I strongly recommend all of the textbooks by Gilbert Strang - he's a fantastically clear writer, which is a rare skill among mathematicians. 
 
-#### Lesson 2 ####
-- T. Arnold & L. Tilton (2019) "Distant viewing: analyzing large visual corpora," Digital Scholarship in the Humanities. pp 1-14.
-- L. Manovich, 2012, How to compare one million Images? In Berry, D. M., Understanding Digital Humanities, pp. 249-78.
+We'll be using VanderPlas (2016) in session 4, but it'ss a useful reference text for basic data science using Python (pandas, matplotlib, scikit-learn). It's a little below the level we'll be working at but it's good to have nevertheless.
 
-#### Lesson 3 ####
-- V. Dumoulin and F. Visin, 2018, "A guide to convolution arithmetic for deep learning," arXiv:1603.07285 [cs, stat], Chp 1, [Download](http://arxiv.org/abs/1603.07285).
-- T. Carvalho, 2020, "Basics of Kernels and Convolutions with OpenCV", [towards data science](https://towardsdatascience.com/basics-of-kernels-and-convolutions-with-opencv-c15311ab8f55)
+* Bittinger, M.L., Ellenbogen, D.J., & Surgent, S.A. (2012). _Calculus and its Applications, 10th Edition_. Boston, MA: Addison-Wesley.
+* Strang, G. (2009). _Introduction to Linear Algebra (4th Edition)_.  Wellesley, MA: Wellesley-Cambridge Press.
+  * (2016). _Linear Algebra and its Applications, (5th Edition)_. Wellesley, MA: Wellesley-Cambridge Press.
+  * (2019). _Linear Algebra and Learning from Data_. Wellesley, MA: Wellesley-Cambridge Press.
+  * (2020). _Linear Algebra for Everyone_. Wellesley, MA: Wellesley-Cambridge Press.
+* VanderPlas, J. (2016). _Python Data Science Handbook_. [Access](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-#### Lesson 4 ####
-@Students make sure you have read previous Readings for Lessons, otherwise you should catch up now before we start ML & DL.
-
-- A. Ranjan, V. N. J. Behera, and M. Reza, (2020) "OCR using Computer Vision and Machine Learning," p. 24.
-OR
-- P. Fyfe and Q. Ge, 2018, "Image Analytics and the Nineteenth-Century Illustrated Newspaper," p. 25.
-- M. Wevers and T. Smits, "Detecting Faces, Visual Medium Types, and Gender in Historical Advertisements, 1950–1995," in Computer Vision – ECCV 2020 Workshops, Cham, 2020, pp. 77–91.
-
-#### Lesson 5 ####
-- T. M. Mitchell, “Does Machine Learning Really Work?,”. [Download](https://www.aaai.org/ojs/index.php/aimagazine/article/view/1303).
-- M. Kirk, “Thoughtful Machine Learning with Python,” chp 2
-
-#### Lesson 6 ####
-- M. Kirk, "Thoughtful Machine Learning with Python," chp 3
-- `math` Hastie et al. The Elements of Statistical Learning - 2nd edition, chp 2. [Download](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
-
-#### Lesson 7 ####
-- M. Kirk, "Thoughtful Machine Learning with Python,"", chp 8.
-
-#### Lesson 8 ####
-- M.A. Nielsen, 2015, Neural Networks and Deep Learning, Determination Press, chp 1 [Online](http://neuralnetworksanddeeplearning.com/chap1.html).
--  P. Madhu, R. Kosti, L. Mührenberg, P. Bell, A. Maier, and V. Christlein, “Recognizing Characters in Art History Using Deep Learning,” arXiv:2003.14171 [cs], Apr. 2020, [Download](https://arxiv.org/abs/2003.14171)
-
-#### Lesson 9 ####
-- Y. Lecun, L. Bottou, Y. Bengio, and P. Haffner, 1998, “Gradient-based learning applied to document recognition,” Proceedings of the IEEE, vol. 86, no. 11, pp. 2278–2324, [Download](http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf)
-- `math` V. Dumoulin and F. Visin, 2018, "A guide to convolution arithmetic for deep learning," arXiv:1603.07285 [cs, stat], [Download](http://arxiv.org/abs/1603.07285).
-
-#### Lesson 10 ####
-- A. Krizhevsky, I. Sutskever, and G. E. Hinton, “ImageNet classification with deep convolutional neural networks,” Commun. ACM, vol. 60, no. 6, pp. 84–90, [Download](https://dl.acm.org/doi/10.1145/3065386)
-- Z. Sabetsarvestani, B. Sober, C. Higgitt, I. Daubechies, and M. R. D. Rodrigues, 2019 “Artificial intelligence for art investigation: Meeting the challenge of separating x-ray images of the Ghent Altarpiece,” Sci. Adv., vol. 5, no. 8, p. eaaw7416, [Download](https://advances.sciencemag.org/content/5/8/eaaw7416)
-
-#### Lesson 11 ####
-- M.A. Nielsen, 2015, Neural Networks and Deep Learning, Determination Press, chp 6 [Online](http://neuralnetworksanddeeplearning.com/chap6.html).
-
-#### Lesson 12 ####
-- L. A. Gatys, A. S. Ecker, and M. Bethge, 2015, “A Neural Algorithm of Artistic Style,” arXiv:1508.06576 [cs, q-bio], [Download](http://arxiv.org/abs/1508.06576).
-- K. Simonyan and A. Zisserman, "Very Deep Convolutional Networks for Large-Scale Image Recognition," arXiv:1409.1556 [cs], [Download]](http://arxiv.org/abs/1409.1556).
-
-#### Lesson 13 ####
-[NA]
-
-### Additional Resources ###
-- `basic programming` A. Sweigart, Automate the boring stuff with Python: practical programming for total beginners. San Francisco: No Starch Press, 2015, `python`, `basic programming`.
-- `neural nets for dummies` M. Taylor, Make Your Own Neural Network: An In-depth Visual Introduction For Beginners. Independently published, 2017
-- `math` D. Forsyth and J. Ponce, Computer Vision: A Modern Approach (International Edition), 2nd edition. Boston: Pearson Education, 2012.
-- [Cultural Analytics Lab](http://lab.culturalanalytics.info/), `Cultural Analytics`, `visualization`.
 
 ## Slack Channel ##
 We will use the "c-visual-analytics" channel for class-related communication. Please ask (and answer) questions in this Slack channel. If you are not in the CD Slack, sign up here [bit.ly/SlackForCDS](bit.ly/SlackForCDS). There is no such thing as a stupid or trivial question. If a colleague asks a question you know an answer to, try and answer. Slack is not only for instructor-student interaction, it is for all students to share knowledge and resources, and to get answers as fast as possible. Slack is best-suited for short technical questions and individual threads or channels for extended conversations on a given topic. 
