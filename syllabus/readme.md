@@ -34,22 +34,8 @@ I encourage you to communicate and work together, so long as you write and expla
 ## Schedule ##
 Each course element (1-13) is a four hour session, consisting of a two-hour lecture 1hr and a two-hour code-along session.
 
-1. Python exemplified with image processing 
-2. Image processing with Python
-3. Image processing with `OpenCV`
-4. Yet more image processing
-5. Edge detection
-6. Image classification with `scikit-learn`
-7. Image classification with shallow neural networks
-8. From shallow to deep learning
-9. Image classification with convolutional neural networks
-- EASTER
-1.  Out-of-the-box CNNs for classification
-2.  A CNN from scratch (or from `TensorFlow`)
-3.  Use cases: Style transfer & image embedding
-4.  Beyond CNNs
 
-| Week  | Session | Lecture | Classroom  |Reading |
+|Week  | Session | Lecture | Classroom  |Reading |
 | :---: | :-----: | ----------| -------| ---|
 |  5    |    1    | Introducing Visual Analytics         | Thinking about images with Python        | NO ASSIGNED READINGS                              |
 |  6    |    2    | Basic image processing               | Exploring colour channels                | *Arnold & Tilton (2019)*                          |
