@@ -1,4 +1,4 @@
-# Session 1 - What is an i
+# Session 1 - What is an image?
 
 ## Overview
 
