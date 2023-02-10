@@ -11,8 +11,11 @@ In this code-along session, we'll see how to construct simple histograms using `
 
 ## Tasks
 
-- Loading images
-- Separating colour channels
-- Viewing individual channels
-- Making basic plots with ```matplotlib```
-- Visualising histograms
+- Finishing with Github setup
+  - Setup script for Git credentials
+- Installing multiple packages
+- Working with images
+  - Separating colour channels
+  - Viewing individual channels
+  - Making basic plots with ```matplotlib```
+  - Visualising histograms
