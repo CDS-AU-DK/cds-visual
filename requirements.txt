@@ -1,4 +1,5 @@
+numpy
+pandas
 matplotlib
-opencv-python
 scikit-learn
-tensorflow
+tensorflow-cpu
