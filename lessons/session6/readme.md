@@ -1,4 +1,4 @@
-# Session 4 - Image Classification 2 with ```scikit-learn```
+# Session 6 - Image Classification 2 with ```scikit-learn```
 
 ## Overview
 
