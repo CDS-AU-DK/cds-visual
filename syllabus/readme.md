@@ -44,13 +44,14 @@ Each course element (1-13) is a four hour session, consisting of a two-hour lect
 |  9    |    5    | Image classification 1               | Logistic Regression w/ Scikit-Learn      | *Mitchell (1997), VanderPlas (2016), chapter 5*   |
 |  10   |    6    | Image classification 2               | Simple neural networks                   | *Nielsen (2015), Chapter 2&3*                     |
 |  11   |    7	  | From shallow to deep learning        | Introducing TensorFlow                   | *Nielsen (2015), Chapter 5                        |
-|  12   |    8	  | Convolutional Neural Networks        | Building ConvNets w/ Tensorflow          | *Krizhevsky et al. (2017)                         |
-|  13   |    9    | Pretrained CNNs and transfer learning| Search algorithm with image embeddings   | *Madhu et al (2020), Tarp & Kristensen-McLachlan (2022)* |
-|  14   |         | *NO TEACHING*                        | *NO TEACHING*                            | *NO ASSIGNED READINGS*                          |
-|  15   |   10    | More on image embeddings             | Style transfer                           | *Gatys et al. (2015)*                             |
-|  16   |   11    | Project presentations                | Project presentations                    | *NO ASSIGNED READINGS*                            |
-|  17   |   12    | Text-to-Image models                 | Prompt engineering                       | *CRFM (2019), sections                            |
-|  18   |   13    | Project development                  | Project development                      | *NO ASSIGNED READINGS*                            |
+|  12   |    -	  | CANCELLED DUE TO ILLNESS        | CANCELLED DUE TO ILLNESS         | -- |
+|  13   |    8    |Convolutional Neural Networks        | Building ConvNets w/ Tensorflow   | *Krizhevsky et al. (2017)                                        |
+|  14   |         | *NO TEACHING*                        | *NO TEACHING*                            | *NO ASSIGNED READINGS*                            |
+|  15   |    9    | Pretrained CNNs and transfer learning| Search algorithm with image embeddings   | *Madhu et al (2020), Tarp & Kristensen-McLachlan (2022)* |
+|  16   |   10    | More on image embeddings             | Style transfer                           | *Gatys et al. (2015)*                             |
+|  17   |   11    | Project presentations                | Project presentations                    | *NO ASSIGNED READINGS*                            |
+|  18   |   12    | Text-to-Image models                 | Prompt engineering                       | *CRFM (2019), sections                            |
+|  19   |   13    | Project development                  | Project development                      | *NO ASSIGNED READINGS*                            |
 
 ## Reading ##
 
