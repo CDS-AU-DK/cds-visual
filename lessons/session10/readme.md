@@ -1,4 +1,4 @@
-# Session 9 - More on image embeddings
+# Session 10 - More on image embeddings
 
 ## Overview
 
