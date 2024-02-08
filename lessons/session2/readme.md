@@ -11,9 +11,8 @@ In this code-along session, we'll see how to construct simple histograms using `
 
 ## Tasks
 
-- Finishing with Github setup
-  - Setup script for Git credentials
-- Installing multiple packages
+- More introductions to python
+- Installing packages and working with ```utils```
 - Working with images
   - Separating colour channels
   - Viewing individual channels

@@ -16,7 +16,6 @@ We'll be working with the scientific computing library, ```numpy```, and introdu
 - Setting up [UCloud](https://cloud.sdu.dk)
     - Introducing Coder Python
     - Getting UCloud and Github to play nicely
-      - Generating an [access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+- Basic python introduction
 - ```numpy``` for working with arrays
-- ```Open-CV``` for simple image processing
 

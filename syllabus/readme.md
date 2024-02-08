@@ -43,14 +43,14 @@ Each course element (1-13) is a four hour session, consisting of a two-hour lect
 |  8    |    4    | Convolutional kernels                | Thresholds and blurring                  | *Wevers & Smits (2020)*                           |
 |  9    |    5    | Image classification 1               | Logistic Regression w/ Scikit-Learn      | *Mitchell (1997), VanderPlas (2016), chapter 5*   |
 |  10   |    6    | Image classification 2               | Simple neural networks                   | *Nielsen (2015), Chapter 2&3*                     |
-|  11   |    7	  | From shallow to deep learning        | Introducing TensorFlow                   | *Nielsen (2015), Chapter 5                        |
-|  12   |    -	  | CANCELLED DUE TO ILLNESS        | CANCELLED DUE TO ILLNESS         | -- |
-|  13   |    8    |Convolutional Neural Networks        | Building ConvNets w/ Tensorflow   | *Krizhevsky et al. (2017)                                        |
-|  14   |         | *NO TEACHING*                        | *NO TEACHING*                            | *NO ASSIGNED READINGS*                            |
-|  15   |    9    | Pretrained CNNs and transfer learning| Search algorithm with image embeddings   | *Madhu et al (2020), Tarp & Kristensen-McLachlan (2022)* |
-|  16   |   10    | More on image embeddings             |Image search                           | *Gatys et al. (2015)*                             |
-|  17   |   11    | Project presentations                | Project presentations                    | *NO ASSIGNED READINGS*                            |
-|  18   |   12    | Text-to-Image models                 | Prompt engineering                       | *CRFM (2019), sections                            |
+|  11   |    7	  | From shallow to deep learning        | Introducing TensorFlow                   | *Nielsen (2015), Chapter 5*                        |
+|  12   |    -	  | Convolutional Neural Networks        | Building ConvNets w/ Tensorflow          | *Krizhevsky et al. (2017)*        |
+|  13   |         | *NO TEACHING*                        | *NO TEACHING*                            | *NO ASSIGNED READINGS*                            |
+|  14   |    9    | Pretrained CNNs and transfer learning| Search algorithm with image embeddings   | *Madhu et al (2020), Tarp & Kristensen-McLachlan (2022)* |
+|  15   |   10    | More on image embeddings             |Image search                              | *Gatys et al. (2015)*                             |
+|  16   |   11    | Reading words: OCR                   |OCR with Tesseract                        | *Jiang et al. (2021)*                           |
+|  17   |   12    | Text-to-Image models                 |Grid search                               | *CRFM (2019), sections*                            |
+|  18   |           | *NO TEACHING*                      | *NO TEACHING*                            | *NO ASSIGNED READINGS*                            |
 |  19   |   13    | Project development                  | Project development                      | *NO ASSIGNED READINGS*                            |
 
 ## Reading ##
@@ -59,6 +59,7 @@ Each course element (1-13) is a four hour session, consisting of a two-hour lect
 * Center for Research on Foundation Models (CRFM) (2019). "On the Opportunities and Risks of Foundation Models", [arXiv:2108.07258](https://arxiv.org/abs/2108.07258) [cs.LG]
 * Krizhevsky, A., Sutskever, I., & Hinton, G.E. (2017). "ImageNet classification with deep convolutional neural networks",* Commun. ACM*, 60(6), 84–90. https://doi.org/10.1145/3065386
 * Gatys, L.A., Ecker, A.S., & Bethge, M. (2015), “A Neural Algorithm of Artistic Style,” [arXiv:1508.06576](http://arxiv.org/abs/1508.06576).
+* Jiang, M., Hu, Y., Worthey, G., Dubnicek, R. C., Underwood, T., & Downie, J. S.(2021). Impact of OCR quality on BERT embeddings in the domain classification of book excerpts. CEUR Workshop Proceedings, 2989, 266-279. [Link](https://ceur-ws.org/Vol-2989/long_paper43.pdf)
 * Manovich, L. (2012). How to Compare One Million Images?. In: Berry, D.M. (eds) Understanding Digital Humanities. Palgrave Macmillan, London. DOI:[https://doi.org/10.1057/9780230371934_14](https://doi.org/10.1057/9780230371934_14)
 *  Madhu, P., Kosti, R., Mührenberg, L., Bell, P., Maier, A. & Christlein, V. (2020) “Recognizing Characters in Art History Using Deep Learning,” [arXiv:2003.14171](https://arxiv.org/abs/2003.14171)
 * Mitchell, T.M. (1997) "Does Machine Learning Really Work?,” [Available online](https://www.aaai.org/ojs/index.php/aimagazine/article/view/1303)
@@ -80,13 +81,3 @@ We'll be using VanderPlas (2016) in session 4, but it'ss a useful reference text
   * (2019). _Linear Algebra and Learning from Data_. Wellesley, MA: Wellesley-Cambridge Press.
   * (2020). _Linear Algebra for Everyone_. Wellesley, MA: Wellesley-Cambridge Press.
 * VanderPlas, J. (2016). _Python Data Science Handbook_. [Access](https://jakevdp.github.io/PythonDataScienceHandbook/)
-
-
-## Slack Channel ##
-There is no such thing as a stupid or trivial question. If a fellow student asks a question you know an answer to, try and answer!
-
- Slack is not only for instructor-student interaction, it is for all students to share knowledge and resources, and to get answers as fast as possible. Slack is best-suited for short technical questions and individual threads or channels for extended conversations on a given topic. 
-
-
-## Disability Resources ##
-Your experience in this class is important to me. If you have already established accommodations with Special Educational Support (SES), please communicate your approved accommodations to me at your earliest convenience so we can discuss your needs in this course. If you have not yet established services through SES, but have a temporary health condition or permanent disability that requires accommodations (conditions include but not limited to; mental health, attention-related, learning, vision, hearing, physical or health impacts), you are welcome to contact 8716 2720 (Monday & Thursday 9-12, Tuesday 13-15) or email sps@au.dk .  SES offers resources and coordinates reasonable accommodations for students with disabilities and/or temporary health conditions. Reasonable accommodations are established through an interactive process between you, your instructor(s) and SES. It is the policy and practice of the Aarhus University to create inclusive and accessible learning environment and ensure that all students have the opportunity to educate themselves on equal terms even if they have a disability
