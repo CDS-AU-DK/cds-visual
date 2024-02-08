@@ -1,5 +1,9 @@
 # Syllabus Cultural Data Science - Visual #
 
+**NB: The information presented here has been taken from the [AU Course Catalogue](https://kursuskatalog.au.dk/da/course/122343/Visual-Analytics).**
+
+**This page should be viewed as indicative, rather than definitive. In the case of any errors, the official AU version is binding.**
+
 ## Overview ##
 
 The purpose of the course is to enable students to conduct systematic computational analyses of visual objects such as paintings, photographs, archaeological artefacts, and digital products. Students will learn to understand the composition of collections of visual objects, and to apply statistical and machine learning methods for analysing them. The course will enable students to carry out projects within their primary subject area, and to reflect critically on others' analytical decisions. Students will also obtain the ability to present the result of their own analyses, and to visualize their results.

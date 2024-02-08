@@ -1,6 +1,6 @@
-# Visual Analytics - Spring 2023
+# Visual Analytics - Spring 2024
 
-This repository contains all of the code and data related to the Spring 2023 module _Visual Analytics_ as part of the bachelor's tilvalg in [Cultural Data Science](https://bachelor.au.dk/en/supplementary-subject/culturaldatascience/) at Aarhus University.
+This repository contains all of the code and data related to the Spring 2024 module _Visual Analytics_ as part of the bachelor's tilvalg in [Cultural Data Science](https://bachelor.au.dk/en/supplementary-subject/culturaldatascience/) at Aarhus University.
 
 This repository is in active development, with new material being pushed on a weekly basis. 
 
@@ -24,7 +24,7 @@ This repository has the following directory structure:
 
 ## Class times
 
-This class takes place on Fridays from 11-15. Teaching will take place in person, and you can find the room number via the AU Timetable website.
+This class takes place on Fridays from 12-16. Teaching will take place in person, and you can find the room number via the AU Timetable website.
 
 ## Course overview and readings
 
