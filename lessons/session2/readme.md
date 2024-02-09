@@ -18,3 +18,8 @@ In this code-along session, we'll see how to construct simple histograms using `
   - Viewing individual channels
   - Making basic plots with ```matplotlib```
   - Visualising histograms
+
+## Python checking
+- Checking Python knowledge
+    - A number of exercises to test your knowledge
+        - Link to exercises [here](https://github.com/CHCAA-EDUX/Programming-for-the-Humanities-E23/tree/main/exercises)
