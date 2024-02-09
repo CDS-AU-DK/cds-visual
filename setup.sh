@@ -1,4 +1,3 @@
 #!/usr/bin/env bash
-python3 -m pip install --upgrade pip
-python3 -m pip install --upgrade jupyter
-python3 -m pip install -r requirements.txt
+sudo apt-get install -y python3-opencv
+pip install opencv-python
