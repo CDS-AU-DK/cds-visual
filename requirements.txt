@@ -1,6 +1,5 @@
+opencv-python
 matplotlib
 scikit-learn
-tensorflow-cpu
-numpy
 pandas
-opencv-python
+seaborn
