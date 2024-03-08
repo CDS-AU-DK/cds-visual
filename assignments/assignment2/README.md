@@ -2,6 +2,19 @@
 
 For this assignment, we'll be writing scripts which classify the ```Cifar10``` dataset. You can read more about this dataset [here](https://www.cs.toronto.edu/~kriz/cifar.html)
 
+You should write code which does the following:
+
+- Load the Cifar10 dataset
+- Preprocess the data (e.g. greyscale, normalize, reshape)
+- Train a classifier on the data
+    - A logistic regression classifier *and* a neural network classifier
+- Save a classification report
+- Save a plot of the loss curve during training
+
+You should write **two scripts** for this assignment one script which does this for a logistic regression classifier **and** one which does it for a neural network classifier. In both cases, you should use the machine learning tools available via ```scikit-learn``` to evaluate model performance.
+
+## Starter code
+
 The data already has a train/test split and can be loaded in the following way:
 
 ```python
@@ -9,16 +22,10 @@ from tensorflow.keras.datasets import cifar10
 (X_train, y_train), (X_test, y_test) = cifar10.load_data()
 ```
 
-You should write code which does the following:
+Once you have loaded the data, made it greyscale, and scaled the values then you will need to *reshape* the array to be the correct dimensions. You can do that in the following way using ```numpy```:
 
-- Load the Cifar10 dataset
-- Preprocess the data (e.g. greyscale, reshape)
-- Train a classifier on the data
-    - A logistic regression classifier *and* a neural network classifier
-- Save a classification report
-- Save a plot of the loss curve during training
-
-You should write **two scripts** for this assignment one script which does this for a logistic regression classifier **and** one which does it for a neural network classifier. In both cases, you should use the machine learning tools available via ```scikit-learn``` to evaluate model performance.
+X_train_scaled.reshape(-1, 1024)
+X_test_scaled.reshape(-1, 1024)
 
 ## Tips
 
