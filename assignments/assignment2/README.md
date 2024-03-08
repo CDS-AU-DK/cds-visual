@@ -10,6 +10,7 @@ You should write code which does the following:
     - A logistic regression classifier *and* a neural network classifier
 - Save a classification report
 - Save a plot of the loss curve during training
+    - UPDATE: This is only possible for the MLP Classifier in scikit-learn
 
 You should write **two scripts** for this assignment one script which does this for a logistic regression classifier **and** one which does it for a neural network classifier. In both cases, you should use the machine learning tools available via ```scikit-learn``` to evaluate model performance.
 
@@ -32,7 +33,8 @@ X_test_scaled.reshape(-1, 1024)
 ```
 
 ## Tips
-
+- Make sure to check the different parameters available with, for example, the ```MLPClassifier()``` in ```scikit-learn```. Experiment with different model sizes and parameters.
+- The training data comprises 50,000 examples - just be aware that the ```MLPCLassifier()``` can be a little slow!
 - The Cifar10 dataset you download does not have explict label names but instead has numbers from 0-9. You'll need to make a list of labels based on the object names - you can find these on the website.
 - You should structure your project by having scripts saved in a folder called ```src```, and have a folder called ```out``` where you save the classification reports.
 
