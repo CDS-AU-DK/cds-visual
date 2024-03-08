@@ -22,10 +22,14 @@ from tensorflow.keras.datasets import cifar10
 (X_train, y_train), (X_test, y_test) = cifar10.load_data()
 ```
 
-Once you have loaded the data, made it greyscale, and scaled the values then you will need to *reshape* the array to be the correct dimensions. You can do that in the following way using ```numpy```:
+Once you have loaded the data, made it greyscale, and scaled the values then you will need to *reshape* the array to be the correct dimensions - essentially flattening the 2d array like we saw with greyscale histograms. 
 
+You can do that in the following way using ```numpy```:
+
+```python
 X_train_scaled.reshape(-1, 1024)
 X_test_scaled.reshape(-1, 1024)
+```
 
 ## Tips
 
