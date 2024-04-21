@@ -1,7 +1,6 @@
-matplotlib
-scikit-learn
-numpy
 pandas
+numpy
+matplotlib
 opencv-python
-tensorflow-cpu
-tensorflow-hub
+pytesseract
+autocorrect
