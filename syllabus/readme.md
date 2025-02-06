@@ -45,10 +45,10 @@ Each course element (1-13) is a four hour session, consisting of a two-hour lect
 |  7    |    2    | Basic image processing               | Exploring colour channels                | *Arnold & Tilton (2019)*                          |
 |  8    |    3    | More image processing                | Comparing colour histograms              | *Manovich(2012)*                                  |
 |  9    |    4    | Convolutional kernels                | Thresholds and blurring                  | *Wevers & Smits (2020)*                           |
-|  10    |    5    | Image classification 1               | Logistic Regression w/ Scikit-Learn      | *Mitchell (1997), VanderPlas (2016), chapter 5*   |
+|  10    |   5    | Image classification 1               | Logistic Regression w/ Scikit-Learn      | *Mitchell (1997), VanderPlas (2016), chapter 5*   |
 |  11   |    6    | Image classification 2               | Simple neural networks                   | *Nielsen (2015), Chapter 2&3*                     |
 |  12   |    7	  | From shallow to deep learning        | Introducing TensorFlow                   | *Nielsen (2015), Chapter 5*                        |
-|  13   |    -	  | Convolutional Neural Networks        | Building ConvNets w/ Tensorflow          | *Krizhevsky et al. (2017)*        |
+|  13   |    8	  | Convolutional Neural Networks        | Building ConvNets w/ Tensorflow          | *Krizhevsky et al. (2017)*        |
 |  14   |    9    | Pretrained CNNs and transfer learning| Search algorithm with image embeddings   | *Madhu et al (2020), Tarp & Kristensen-McLachlan (2022)* |
 |  15   |   10    | More on image embeddings             |Image search                              | *Gatys et al. (2015)*                             |
 |  16   |  --     |    *NO TEACHING*                        | *NO TEACHING*        | *CRFM (2019), specific sections to be assigned*                              |
