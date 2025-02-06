@@ -1,6 +1,6 @@
 # Syllabus Cultural Data Science - Visual #
 
-**NB: The information presented here has been taken from the [AU Course Catalogue](https://kursuskatalog.au.dk/da/course/122343/Visual-Analytics).**
+**NB: The information presented here has been taken from the [AU Course Catalogue](https://kursuskatalog.au.dk/en/course/129661/Visual-Analytics).**
 
 **This page should be viewed as indicative, rather than definitive. In the case of any errors, the official AU version is binding.**
 
@@ -41,21 +41,21 @@ Each course element (1-13) is a four hour session, consisting of a two-hour lect
 
 |Week  | Session | Lecture | Classroom  |Reading |
 | :---: | :-----: | ----------| -------| ---|
-|  5    |    1    | Introducing Visual Analytics         | Thinking about images with Python        | NO ASSIGNED READINGS                              |
-|  6    |    2    | Basic image processing               | Exploring colour channels                | *Arnold & Tilton (2019)*                          |
-|  7    |    3    | More image processing                | Comparing colour histograms              | *Manovich(2012)*                                  |
-|  8    |    4    | Convolutional kernels                | Thresholds and blurring                  | *Wevers & Smits (2020)*                           |
-|  9    |    5    | Image classification 1               | Logistic Regression w/ Scikit-Learn      | *Mitchell (1997), VanderPlas (2016), chapter 5*   |
-|  10   |    6    | Image classification 2               | Simple neural networks                   | *Nielsen (2015), Chapter 2&3*                     |
-|  11   |    7	  | From shallow to deep learning        | Introducing TensorFlow                   | *Nielsen (2015), Chapter 5*                        |
-|  12   |    -	  | Convolutional Neural Networks        | Building ConvNets w/ Tensorflow          | *Krizhevsky et al. (2017)*        |
-|  13   |         | *NO TEACHING*                        | *NO TEACHING*                            | *NO ASSIGNED READINGS*                            |
+|  6    |    1    | Introducing Visual Analytics         | Thinking about images with Python        | NO ASSIGNED READINGS                              |
+|  7    |    2    | Basic image processing               | Exploring colour channels                | *Arnold & Tilton (2019)*                          |
+|  8    |    3    | More image processing                | Comparing colour histograms              | *Manovich(2012)*                                  |
+|  9    |    4    | Convolutional kernels                | Thresholds and blurring                  | *Wevers & Smits (2020)*                           |
+|  10    |    5    | Image classification 1               | Logistic Regression w/ Scikit-Learn      | *Mitchell (1997), VanderPlas (2016), chapter 5*   |
+|  11   |    6    | Image classification 2               | Simple neural networks                   | *Nielsen (2015), Chapter 2&3*                     |
+|  12   |    7	  | From shallow to deep learning        | Introducing TensorFlow                   | *Nielsen (2015), Chapter 5*                        |
+|  13   |    -	  | Convolutional Neural Networks        | Building ConvNets w/ Tensorflow          | *Krizhevsky et al. (2017)*        |
 |  14   |    9    | Pretrained CNNs and transfer learning| Search algorithm with image embeddings   | *Madhu et al (2020), Tarp & Kristensen-McLachlan (2022)* |
 |  15   |   10    | More on image embeddings             |Image search                              | *Gatys et al. (2015)*                             |
-|  16   |   11    | Reading words: OCR                   |OCR with Tesseract                        | *Jiang et al. (2021)*                           |
-|  17   |   12    | Text-to-Image models                 |Grid search                               | *CRFM (2019), sections*                            |
-|  18   |           | *NO TEACHING*                      | *NO TEACHING*                            | *NO ASSIGNED READINGS*                            |
-|  19   |   13    | Project development                  | Project development                      | *NO ASSIGNED READINGS*                            |
+|  16   |  --     |    *NO TEACHING*                        | *NO TEACHING*        | *CRFM (2019), specific sections to be assigned*                              |
+|  17   |  --     |     *NO TEACHING*                        | *NO TEACHING*        | *CRFM (2019), specific sections to be assigned*                              |
+|  18   |   11    | Reading words: OCR                   |OCR with Tesseract                        | *Jiang et al. (2021)*                           |
+|  19   |   12    | Text-to-Image models                 |Grid search                               | *NO ASSIGNED READINGS*                             |
+|  20   |   13    | Project development                  | Project development                      | *NO ASSIGNED READINGS*                            |
 
 ## Reading ##
 
