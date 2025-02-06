@@ -32,7 +32,7 @@ A detailed breakdown of the course structure and the associated readings can be 
 
 ## Contact details
 
-The instructor is me! That is to say, [Ross](https://au.dk/rdkm@cas).
+The instructor is me! That is to say, [Ross](https://www.au.dk/en/rdkm@cc.au.dk).
 
 All communication to you will be sent via Blackboard to your student email address.
 
